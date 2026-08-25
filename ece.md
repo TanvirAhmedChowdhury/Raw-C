@@ -1,25 +1,5 @@
 
 
-## PCB ##
-
-### General ###
-- [Top 5 PCB Design Guidelines Every PCB Designer Needs to Know](https://resources.altium.com/pcb-design-blog/top-pcb-design-guidelines-every-pcb-designer-needs-to-know) - General guidelines to design PCBs.
-- [EEVblog - PCB Desing Tutorial](http://www.alternatezone.com/electronics/files/PCBDesignTutorialRevA.pdf) - Long and detailed guide that covers everything about PCB design.
-- [CABLAB.io](https://cadlab.io/) - Git Version Control for Eagle PCB Design.
-- [UPVERTER](https://upverter.com/) - UPVERTER is a cloud based circuit board design tool (aka EDA). It can assist with developing schematics, PCB layouts, bills of materials, and gerber files.
-- [PCB Bring-Up Checklist](https://pcbwiki.com/learn/pcb-bring-up-checklist) - A source-bounded, nine-stage workflow for inspection, controlled first power, rail checks, programming, interfaces, thermal checks, and a reproducible known-good baseline.
-
-### KiCad ###
-- [B.A.Byrce - KiCad PCB Tutorial](http://babryce.com/kicad/tutorial.html) - Short yet efficient KiCad tutorial that uses an example to guide you through all the processes of creating a PCB.
-- [Contextual Electronics - Shine On You Crazy KiCad](https://www.youtube.com/watch?v=BVhWh3AsXQs&list=PLy2022BX6EspFAKBCgRuEuzapuz_4aJCn) - Contextual Electronics offers lots of KiCad video tutorials.
-- [AddOhms](https://www.youtube.com/watch?v=5fvdxd0QhTw&list=PLRIGIzu0Z7KllhKqPsNDwitjpK45SHoKg) - Custom Arduino Design Series, Schematic, PCB, Test.
-
-### Gerber Viewers ###
-- [gerbv](http://gerbv.geda-project.org/) - Free and open source Gerber viewer. Is a native Linux application, but also has an available version for Windows.
-- [Reference Gerber Viewer](https://gerber.ucamco.com/) - Free and online Gerber viewer developed by Ucamco.
-- [Tracespace.io](http://viewer.tracespace.io/) - Online viewer that allows to seeing each layer isolated.
-- [Salitronic Gerber Analyzer](https://salitronic.com/gerber_analyzer) - Free in-browser viewer for Gerber, ODB++ and IPC-2581. Shows each layer and the assembled board, and runs a DRC, a layer diff and a pick-and-place view. No install or sign-up.
-
 ## Forums ##
 
 - [Electronics StackExchange.](https://electronics.stackexchange.com/) - Do you have any questions? 98% it will be already solved in here.
