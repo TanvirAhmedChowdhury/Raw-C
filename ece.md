@@ -1,16 +1,5 @@
 
 
-## Forums ##
-
-- [Electronics StackExchange.](https://electronics.stackexchange.com/) - Do you have any questions? 98% it will be already solved in here.
-- [/r/AskElectronics/](https://www.reddit.com/r/AskElectronics/) - Feel free to ask any question, gentle people will try their best to help you.
-- [/r/ECE/](https://www.reddit.com/r/ECE/) - Discussion of all things related to electrical and computer engineering.
-- [/r/electronic_circuits/](https://www.reddit.com/r/electronic_circuits/) - Place to discuss diagrams and schematics of any circuit.
-- [/r/ElectricalEngineering/](https://www.reddit.com//r/ElectricalEngineering/) - Subreddit for Electrical Engineering.
-- [/r/electronics/](https://www.reddit.com/r/electronics/) - Subreddit dedicated to news, articles and discussions related to electronic systems and circuits.
-- [/r/arduino](https://www.reddit.com/r/arduino/) - A place for any Arduino discussion.
-- [/r/ArduinoProjects/](https://www.reddit.com/r/ArduinoProjects/) - Show your Arduino project or get amazed by others projects.
-
 ## Projects ##
 
 - [Instructables](http://www.instructables.com/technology/) - You can find any kind of electronics project.
