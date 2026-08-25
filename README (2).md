@@ -1,45 +1,4 @@
-# Awesome-Embedded
 
-A curated list of awesome embedded resource.
-
-Table of content
-
-- [Awesome-Embedded](#awesome-embedded)
-  - [Interview](#interview)
-  - [Embedded Software Skill](#embedded-software-skill)
-  - [Common](#common)
-  - [MCU programming](#mcu-programming)
-    - [Bare-metal programming (Don't need MCU)](#bare-metal-programming-dont-need-mcu)
-    - [MSP430](#msp430)
-    - [TM4C123](#tm4c123)
-    - [MSP432](#msp432)
-    - [STM32](#stm32)
-    - [STM32F7](#stm32f7)
-    - [STM8](#stm8)
-    - [ESP8266](#esp8266)
-  - [Raspberry](#raspberry)
-  - [Beaglebone](#beaglebone)
-  - [Linux Kernel and device driver development](#linux-kernel-and-device-driver-development)
-  - [Assembly](#assembly)
-  - [RTOS](#rtos)
-  - [Automotive](#automotive)
-  - [OS](#os)
-  - [WindowCE](#windowce)
-  - [Compiler](#compiler)
-  - [Bootloader](#bootloader)
-  - [Makefile](#makefile)
-  - [Peripheral](#peripheral)
-    - [Memory Protection Unit](#memory-protection-unit)
-    - [USB](#usb)
-  - [Others](#others)
-  - [Embedded GUI Development](#embedded-gui-development)
-  - [Machine Learning & AI on MCU](#machine-learning--ai-on-mcu)
-  - [Utilities](#utilities)
-  - [Tips & tricks](#tips--tricks)
-- [Tech blogs](#tech-blogs)
-  - [FAQ_Embedded](#faqembedded)
-  - [Looking for more lists like this?](#looking-for-more-lists-like-this)
-  - [BOOKs](#books)
 
 ## Interview
 
