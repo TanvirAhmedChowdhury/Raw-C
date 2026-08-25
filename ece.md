@@ -1,13 +1,4 @@
 
-### Podcasts ###
-- [Internet of Things](https://iotpodcast.com/) - Hosted by Stacey Higginbotham they discuss IoT topics and news.
-- [The Amp Hour](https://theamphour.com/tag/contextual-electronics/) - Podcast by Contextual Electronics with lots of interviews to important engineers.
-- [MIT Open Courseware - Circuits and Electronics](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-002-circuits-and-electronics-spring-2007/) - MIT course of an introduction to circuits and electronics.
-- [Programming Electronics Academy Podcast](https://programmingelectronics.com/oshpodcast/) - Podcast focused on how to programm embedded systems.
-
-## Circuits Simulators ##
-
-- [LTspice](http://www.analog.com/en/design-center/design-tools-and-calculators.html) - Free software with a great variety of design simulation tools.
 
 ## PCB ##
 
