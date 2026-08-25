@@ -1,32 +1,5 @@
 
 
-## Projects ##
-
-- [Instructables](http://www.instructables.com/technology/) - You can find any kind of electronics project.
-- [Hackter.io](https://www.hackster.io/projects) - Platform to search and upload electronics projects, they also host lots of projects contests with greats rewards.
-- [Hackaday.io](https://hackaday.io/projects) - This popular blog also host a project sharing page.
-- [Electronics Projects Hub](https://electronicsprojectshub.com/) - Small site with great projects.
-
-## Storing Components ##
-
-- [Partsbox.io](https://partsbox.io/) - They offer a very innovative and great way to keep track of your electronics parts.
-- [Reddit - Storing your electronic components](https://es.reddit.com/r/electronics/comments/7xz1vs/tip_storing_your_electronic_components/) - Reddit thread with lots of ways to store your components.
-
-## Searching Engines of Components ##
-
-- [Octopart](https://octopart.com/) - Find any component by its description, part number or category.
-- [Findchips](https://www.findchips.com/) - Get instant insight into any electronic component.
-
-## Blogs ##
-
-- [Circuits.io](https://circuits.io/) - Ideal for simulations and tutorials.
-- [Interrupt](https://interrupt.memfault.com/blog/) - Blog from Memfault with lots of interesting embedded posts.
-- [Embedded Artistry](https://embeddedartistry.com/) - Website for embedded systems developers who are dedicated to excellence and continual improvement.
-- [Microwaves & RF](http://www.mwrf.com/) - News related to microelectronics and RF.
-- [EDN Network](https://www.edn.com/) - All kinds of electronics news.
-- [SparkFun](https://www.sparkfun.com/) - Bunch of different resources, tutorials and a great shop!
-- [Jay Carlson: So you want to build an embedded system?](https://jaycarlson.net/embedded-linux/) - Incredible post from Jay Carlson about embedded systems.
-
 ## Interview Questions ##
 - [A C Test: The 0x10 Best Questions for Would-be Embedded Programmers](https://rmbconsulting.us/publications/a-c-test-the-0x10-best-questions-for-would-be-embedded-programmers/) - Interesting embedded C interview questions.
 - [Interview Question Breakdown: Bad C Analysis](https://embeddedartistry.com/blog/2017/06/05/interview-question-breakdown-bad-c-analysis/) - Set of interview questions based on a C problem.
