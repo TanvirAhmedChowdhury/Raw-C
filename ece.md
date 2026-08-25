@@ -1,12 +1,4 @@
 
-in his YouTube channel, you can find a lot of interesting videos about certain electronics concepts, reviews or even live
-videos where he replies to any question fro .
-- [Andreas Spiess](https://www.youtube.com/channel/UCu7_D0o48KbfhpEohoP7YSQ) - Projects and comparison of electronic devices.
-- [Jeremy Blum](https://www.youtube.com/user/sciguy14) - Amazing Arduino tutorial series and projects.
-- [Proto G](https://www.youtube.com/user/garofalo42) - Yet another interesting channel with lots of great projects.
-digital signal processing, STM32, KiCad, RF, etc.
-- [Introduction to Embedded Linux: Buildroot, Yocto...](https://www.youtube.com/watch?v=9vsu67uMcko&list=PLEBQazB0HUyTpoJoZecRK6PpDG31Y7RPB&index=1) - YouTube playlist with that covers the basics of embedded systems.
-
 ### Podcasts ###
 - [Internet of Things](https://iotpodcast.com/) - Hosted by Stacey Higginbotham they discuss IoT topics and news.
 - [The Amp Hour](https://theamphour.com/tag/contextual-electronics/) - Podcast by Contextual Electronics with lots of interviews to important engineers.
