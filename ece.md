@@ -1,20 +1,10 @@
 
-
-### MOOCs ###
-- [MOOC LIST](https://www.mooc-list.com/categories/eng-electronics) - MOOC search engine that gathers electronics courses from all online MOOC platforms.
-- [edX](https://www.edx.org/learn/electronics) - Explore between all kind of electronics online courses.
-- [coursera](https://www.coursera.org/browse/physical-science-and-engineering/electrical-engineering) - Great compilation of Coursera electrical engineering courses.
-- [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
-
-### YouTube Channels ###
-- [GreatScott!](https://www.youtube.com/user/greatscottlab) - GreatScott! offers from basics concepts to experiments in a very clear and explained way.
-- [EEVblog](https://www.youtube.com/user/EEVblog) - David L. Jones is one of the most known and wise electronics engineers and
 in his YouTube channel, you can find a lot of interesting videos about certain electronics concepts, reviews or even live
 videos where he replies to any question fro .
 - [Andreas Spiess](https://www.youtube.com/channel/UCu7_D0o48KbfhpEohoP7YSQ) - Projects and comparison of electronic devices.
 - [Jeremy Blum](https://www.youtube.com/user/sciguy14) - Amazing Arduino tutorial series and projects.
 - [Proto G](https://www.youtube.com/user/garofalo42) - Yet another interesting channel with lots of great projects.
-- [Phils Lab](https://www.youtube.com/c/PhilS94) - Analog and digital electronics design, PCB design, control systems, digital signal processing, STM32, KiCad, RF, etc.
+digital signal processing, STM32, KiCad, RF, etc.
 - [Introduction to Embedded Linux: Buildroot, Yocto...](https://www.youtube.com/watch?v=9vsu67uMcko&list=PLEBQazB0HUyTpoJoZecRK6PpDG31Y7RPB&index=1) - YouTube playlist with that covers the basics of embedded systems.
 
 ### Podcasts ###
