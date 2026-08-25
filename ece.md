@@ -1,12 +1,4 @@
 
-### Websites ###
-- [All About Circuits](https://www.allaboutcircuits.com/education/) - Offers a wide variety of learning resources including textbooks, video lectures and worksheets.
-- [AirgapFlux](https://explore.airgapflux.in/) -  A collection of electrical (power and energy) and electronic engineering (+control and DSP) resources.
-- [Electronics Tutorials](https://www.electronics-tutorials.ws/) - Very descriptive tutorials in many different fields of
-electronics.
-- [Electronics Club](https://electronicsclub.info/) - A website for anyone wishing to learn about electronics or build simple projects. Written for beginners but used by many others as a quick reference.
-- [Adafruit Learning System](https://learn.adafruit.com/) - It provides a good bit of documentations for a lot of their products, various projects and topics. While these articles tend to geared to beginners and hobbyists, it provides a good resource to discover a new topic.
-- [DistroForge Learn](https://distroforge.com/learn) - Free courses on how the electric distribution grid works: AC power, transformers, protection coordination, reliability, and field safety.
 
 ### Books ###
 - [Paul and Winfield - The Art Of Electronics](https://www.uvm.edu/~gpetrucc/courses/Chem219/Lectures/Paul%20Horowitz,%20Winfield%20Hill%20-%20The%20Art%20of%20Electronics-Cambridge%20University%20Press%20(2015).pdf) - The most popular and important book, every Electronic Engineer should read it.
