@@ -1,17 +1,5 @@
 
 
-## Interview
-
-* [Embedded Interview Questions](https://docs.google.com/document/d/18HMyd-lFu1hWiixFLS2Pc7-SgyzDDqitzXbfAnUVeBE/mobilebasic)
-* [Interview Questions Archive by Company](https://docs.google.com/document/d/1uW030FMfBxKLxXz-eIwyzlMJdERN5DMEwtUnJMYsF-g/edit?usp=sharing)
-* [Coding Interview University](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
-
-## Embedded Software Skill
-
-* [16 Essential Skills for Embedded Engineer](https://swedishembedded.com/insights-build-embedded-systems/)
-* [How to be low-level programmer](https://github.com/gurugio/lowlevelprogramming-university)
-* [Programmer Competency Matrix](https://www.sijinjoseph.com/programmer-competency-matrix/)
-
 ## Common
 
 * [Integer size in C on 32-bit and 64-bit system](https://usrmisc.wordpress.com/2012/12/27/integer-sizes-in-c-on-32-bit-and-64-bit-linux/)
