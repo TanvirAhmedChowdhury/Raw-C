@@ -328,9 +328,6 @@
 * [Embedded rework of C++ STL](https://github.com/malachi-iot/estdlib) - `basic_string`, `basic_ostream` etc. leaned way down.  Cross platform (including AVR).
 * [RAMEN 🍜](https://github.com/Zubax/ramen) - flow-based programming implemented in a simple single-header unopinionated library.
 
-## Embedded GUI Development
-* [Embedded Wizard](https://www.embedded-wizard.de/) - Sophisticated GUI for Your Embedded Platform
-* [lvgl](https://lvgl.io/) - Graphics library to create an embedded GUI with easy-to-use graphical elements, beautiful visual effects and low memory footprint. It offers anti-aliasing, opacity, and animations using only one frame buffer.
 
 ## Machine Learning & AI on MCU
 * [nnom](https://github.com/majianjia/nnom) - A higher-level Neural Network library for microcontrollers.
