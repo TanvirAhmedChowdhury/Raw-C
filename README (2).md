@@ -379,10 +379,7 @@
 * [Embedsys weekly newsletter](https://embedsysweekly.com/)
 * [EdgeLog](https://edgelog.dev/) - Embedded and edge AI engineering notes, with measurements from running LLMs and agents against real hardware.
 
-## FAQ_Embedded
 
-* [Boot section is removed (gcc, ld, ar, as)](https://www.embeddedrelated.com/showthread/lpc2000/47841-1.php)
-* [What are .axf files?](https://stackoverflow.com/questions/17761328/what-are-axf-files)
 
 ## Looking for more lists like this?
 
@@ -396,10 +393,3 @@
 * [awesome-cheat-sheets](https://github.com/mintisan/awesome-cheat-sheets) - Awesome Cheat Sheets for Developer Utility, like Git, Vim, Tmux, Sublime Text, Markdown, Shell.
 * [awesome-embedded-rust](https://github.com/rust-embedded/awesome-embedded-rust) - Curated list of resources for Embedded and Low-level development in the Rust programming language.
 * [theEmbeddedNewTestament.github.io](https://github.com/theEmbeddedGeorge/theEmbeddedNewTestament.github.io)
-
-## BOOKs
-
-* [Mastering the Raspberry Pi](http://web.archive.org/web/20190713103510/http://mensshed-llandudno.co.uk/wp-content/uploads/Mastering%20the%20Raspberry%20Pi.pdf)
-* [Modern C](http://web.archive.org/web/20190219172719/http://icube-icps.unistra.fr/img_auth.php/d/db/ModernC.pdf)
-* [An Embedded Software Primer](https://archive.org/details/embeddedsoftware00davi)
-* [Embedded Software with Rust](https://www.manning.com/books/embedded-software-with-rust)
