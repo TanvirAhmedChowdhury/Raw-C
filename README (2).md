@@ -403,13 +403,3 @@
 * [Modern C](http://web.archive.org/web/20190219172719/http://icube-icps.unistra.fr/img_auth.php/d/db/ModernC.pdf)
 * [An Embedded Software Primer](https://archive.org/details/embeddedsoftware00davi)
 * [Embedded Software with Rust](https://www.manning.com/books/embedded-software-with-rust)
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
-
-- Fork the repository
-- Create your feature branch (`git checkout -b feature/amazing-feature`)
-- Commit your changes (`git commit -m 'Add amazing feature'`)
-- Push to the branch (`git push origin feature/amazing-feature`)
-- Open a Pull Request
